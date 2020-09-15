@@ -13,7 +13,7 @@ ini_set('display_some_errors', 1);
 
 
 // Assignment _ 01
-// Change from AKM Rafiq
+// Change from Ashraf
 
 init();
 
